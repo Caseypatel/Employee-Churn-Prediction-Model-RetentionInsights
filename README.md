@@ -8,7 +8,7 @@ The HR department at Salifort Motors has taken the first step towards addressing
 
 The goal of this project is to develop a predictive model that can forecast the likelihood of an employee leaving the company. By doing so, Salifort Motors can proactively address the concerns of employees who are at risk of leaving, thereby improving overall employee satisfaction and reducing turnover rates. Additionally, the model will provide valuable insights into the primary drivers of employee attrition, enabling the company to make data-driven decisions to improve employee retention.
 
-### Data Oerview 
+### Data Overview
 
 - satisfaction_level: The employee’s self-reported satisfaction level [0-1]
 
